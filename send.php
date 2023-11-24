@@ -22,8 +22,8 @@ $message=$_POST['message'];
     require 'vendor/autoload.php';
 
     // Specify your login credentials
-    $username   = "devjimin";
-    $apikey     = "b4ca255b39c517b2c0f278ec887e1a1e43d290cfc638974e24fd9dd4a6668a71";
+    $username   = "";//your username here
+    $apikey     = "";//your api key here
     // NOTE: If connecting to the sandbox, please use your sandbox login credentials
     // Specify the numbers that you want to send to in a comma-separated list
     // Please ensure you include the country code (+254 for Kenya in this case)
